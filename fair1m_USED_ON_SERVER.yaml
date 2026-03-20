@@ -1,0 +1,28 @@
+path: /workspace/Dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: Aircraft
+  1: Ship
+  2: Vehicle
+  3: Bridge
+  4: Harbor
+  5: Windmill
+  6: Solar panel
+  7: Storage tank
+  8: Swimming pool
+  9: Tennis court
+  10: Basketball court
+  11: Football field
+  12: Baseball field
+  13: Parking lot
+  14: Playground
+  15: Crosswalk
+  16: Street light
+  17: Traffic light
+  18: Traffic sign
+  19: Billboard
+  20: Fence
+  21: Tree
